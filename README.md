@@ -7,4 +7,5 @@ Pre-requisitos:
 - crear base de datos con el siguiente nombre: “testdb”
 - import schema en carpeta https://github.com/nicolerojasa/api_ejemplo/tree/main/schema  Instalación:  https://www.python.org/downloads/  Ejecución:
 
-bash> sh run.sh
+> [!NOTE]
+> bash> sh run.sh
